@@ -1,4 +1,4 @@
-import Weather from '../assets/Weather.png'
+import Weather from '../assets/weather.png'
 import Digitease from '../assets/Digitease.png'
 import smt from '../assets/smt.jpg'
 import Portifolio from '../assets/Portifolio.png'
